@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glenn Carter | Jesse Cusack</title>
+    <link>/authors/glenn-carter/</link>
+      <atom:link href="/authors/glenn-carter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Glenn Carter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Glenn Carter</title>
+      <link>/authors/glenn-carter/</link>
+    </image>
+    
+    <item>
+      <title>A Spatial Geography of Abyssal Turbulent Mixing in the Samoan Passage</title>
+      <link>/publication/carter-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/carter-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-Topography Interactions in the Samoan Passage</title>
+      <link>/publication/girton-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/girton-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

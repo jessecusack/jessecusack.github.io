@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew H. Alford | Jesse Cusack</title>
+    <link>/authors/matthew-h.-alford/</link>
+      <atom:link href="/authors/matthew-h.-alford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew H. Alford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Matthew H. Alford</title>
+      <link>/authors/matthew-h.-alford/</link>
+    </image>
+    
+    <item>
+      <title>Persistent Turbulence in the Samoan Passage</title>
+      <link>/publication/cusack-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cusack-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
