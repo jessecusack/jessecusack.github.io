@@ -3,17 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/dimes/</loc>
-    <lastmod>2020-01-27T11:58:34-05:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gunnar-voet/</loc>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-cusack/</loc>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-27T11:58:34-05:00</lastmod>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/mixsea/</loc>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
+    <lastmod>2020-12-05T14:13:04-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/leconte/</loc>
+    <lastmod>2020-12-05T14:10:35-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/dimes/</loc>
     <lastmod>2020-01-27T11:58:34-05:00</lastmod>
   </url>
   
@@ -23,17 +48,62 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alberto-c.-naveira-garabato/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/callum-j.-shakespeare/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-a.-smeed/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-alexander-brearley/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-m.-cusack/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kurt-l.-polzin/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nick-velzeboer/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cusack-2020/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-05T12:26:40-05:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/carter-2019/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,77 +113,62 @@
   </url>
   
   <url>
-    <loc>/authors/glenn-carter/</loc>
+    <loc>/author/glenn-carter/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/glenn-s.-carter/</loc>
+    <loc>/author/glenn-s.-carter/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gunnar-voet/</loc>
+    <loc>/author/james-b.-girton/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/james-b.-girton/</loc>
+    <loc>/author/james-girton/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/james-girton/</loc>
+    <loc>/author/jody-klymak/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jesse-cusack/</loc>
+    <loc>/author/john-mickett/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jesse-m.-cusack/</loc>
+    <loc>/author/kelly-a.-pearson-potts/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/jody-klymak/</loc>
+    <loc>/author/kelly-pearson-potts/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/john-mickett/</loc>
+    <loc>/author/larry-j.-pratt/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kelly-a.-pearson-potts/</loc>
+    <loc>/author/larry-pratt/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/kelly-pearson-potts/</loc>
+    <loc>/author/matthew-alford/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/larry-j.-pratt/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/larry-pratt/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-alford/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/matthew-h.-alford/</loc>
+    <loc>/author/matthew-h.-alford/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,47 +178,27 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>/author/shuwen-tan/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>/author/zhongxiang-zhao/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/shuwen-tan/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/zhongxiang-zhao/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alberto-c.-naveira-garabato/</loc>
+    <loc>/tag/in-situ-oceanic-observations/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/david-a.-smeed/</loc>
+    <loc>/tag/internal-waves/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/in-situ-oceanic-observations/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/internal-waves/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mountain-waves/</loc>
+    <loc>/tag/mountain-waves/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -173,17 +208,17 @@
   </url>
   
   <url>
-    <loc>/tags/oceanic/</loc>
+    <loc>/tag/oceanic/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/profilers/</loc>
+    <loc>/tag/profilers/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/southern-ocean/</loc>
+    <loc>/tag/southern-ocean/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,7 +228,7 @@
   </url>
   
   <url>
-    <loc>/tags/turbulence/</loc>
+    <loc>/tag/turbulence/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,46 +238,46 @@
   </url>
   
   <url>
-    <loc>/authors/f.-goncu/</loc>
+    <loc>/author/f.-goncu/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-cusack/</loc>
+    <loc>/author/j.-cusack/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/j.-shim/</loc>
+    <loc>/author/j.-shim/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/k.-bertoldi/</loc>
+    <loc>/author/k.-bertoldi/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/s.-luding/</loc>
+    <loc>/author/s.-luding/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/s.-willshaw/</loc>
+    <loc>/author/s.-willshaw/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/t.-mullin/</loc>
+    <loc>/author/t.-mullin/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jesse-cusack/</loc>
   </url>
   
   <url>

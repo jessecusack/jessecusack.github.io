@@ -5,12 +5,28 @@
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2020 11:58:34 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 14:13:04 -0500</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
+      <link>/project/mixsea/</link>
+      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
+      <guid>/project/mixsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fjord oceanography at LeConte glacier</title>
+      <link>/project/leconte/</link>
+      <pubDate>Sat, 05 Dec 2020 14:10:35 -0500</pubDate>
+      <guid>/project/leconte/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diapycnal and Isopycnal Mixing Experiment in the Southern Ocean</title>

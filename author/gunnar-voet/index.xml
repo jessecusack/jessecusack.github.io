@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gunnar Voet | Jesse Cusack</title>
+    <link>/author/gunnar-voet/</link>
+      <atom:link href="/author/gunnar-voet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gunnar Voet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 14:13:04 -0500</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Gunnar Voet</title>
+      <link>/author/gunnar-voet/</link>
+    </image>
+    
+    <item>
+      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
+      <link>/project/mixsea/</link>
+      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
+      <guid>/project/mixsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Spatial Geography of Abyssal Turbulent Mixing in the Samoan Passage</title>
+      <link>/publication/carter-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/carter-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-Topography Interactions in the Samoan Passage</title>
+      <link>/publication/girton-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/girton-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistent Turbulence in the Samoan Passage</title>
+      <link>/publication/cusack-2019/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/cusack-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
