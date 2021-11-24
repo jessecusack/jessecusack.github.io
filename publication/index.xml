@@ -2,61 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Jesse Cusack</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jessecusack.github.io/publication/</link>
+      <atom:link href="https://jessecusack.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jessecusack.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://jessecusack.github.io/publication/</link>
     </image>
     
     <item>
       <title>Observed eddy-internal wave interactions in the Southern Ocean</title>
-      <link>/publication/cusack-2020/</link>
+      <link>https://jessecusack.github.io/publication/cusack-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/cusack-2020/</guid>
+      <guid>https://jessecusack.github.io/publication/cusack-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Spatial Geography of Abyssal Turbulent Mixing in the Samoan Passage</title>
-      <link>/publication/carter-2019/</link>
+      <link>https://jessecusack.github.io/publication/carter-2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/carter-2019/</guid>
+      <guid>https://jessecusack.github.io/publication/carter-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flow-Topography Interactions in the Samoan Passage</title>
-      <link>/publication/girton-2019/</link>
+      <link>https://jessecusack.github.io/publication/girton-2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/girton-2019/</guid>
+      <guid>https://jessecusack.github.io/publication/girton-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Persistent Turbulence in the Samoan Passage</title>
-      <link>/publication/cusack-2019/</link>
+      <link>https://jessecusack.github.io/publication/cusack-2019/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/cusack-2019/</guid>
+      <guid>https://jessecusack.github.io/publication/cusack-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Observation of a large Lee wave in the Drake Passage</title>
-      <link>/publication/cusack-2017/</link>
+      <link>https://jessecusack.github.io/publication/cusack-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/cusack-2017/</guid>
+      <guid>https://jessecusack.github.io/publication/cusack-2017/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>An example conference paper</title>
+      <link>https://jessecusack.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://jessecusack.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Deformation induced pattern transformation in a soft granular crystal</title>
-      <link>/publication/goncu-2011/</link>
+      <link>https://jessecusack.github.io/publication/goncu-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/goncu-2011/</guid>
+      <guid>https://jessecusack.github.io/publication/goncu-2011/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mountain waves | Jesse Cusack</title>
-    <link>/tag/mountain-waves/</link>
-      <atom:link href="/tag/mountain-waves/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jessecusack.github.io/tag/mountain-waves/</link>
+      <atom:link href="https://jessecusack.github.io/tag/mountain-waves/index.xml" rel="self" type="application/rss+xml" />
     <description>Mountain waves</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jessecusack.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Mountain waves</title>
-      <link>/tag/mountain-waves/</link>
+      <link>https://jessecusack.github.io/tag/mountain-waves/</link>
     </image>
     
     <item>
       <title>Observation of a large Lee wave in the Drake Passage</title>
-      <link>/publication/cusack-2017/</link>
+      <link>https://jessecusack.github.io/publication/cusack-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/cusack-2017/</guid>
+      <guid>https://jessecusack.github.io/publication/cusack-2017/</guid>
       <description></description>
     </item>
     
