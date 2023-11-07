@@ -13,6 +13,22 @@
     </image>
     
     <item>
+      <title>Physics of Ocean-Driven Ice Melt at Marine Terminating Glaicers</title>
+      <link>https://jessecusack.github.io/project/leconte/</link>
+      <pubDate>Sat, 05 Dec 2020 14:10:35 -0500</pubDate>
+      <guid>https://jessecusack.github.io/project/leconte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
+      <link>https://jessecusack.github.io/project/mixsea/</link>
+      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
+      <guid>https://jessecusack.github.io/project/mixsea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Talk</title>
       <link>https://jessecusack.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
@@ -109,40 +125,6 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
-      <link>https://jessecusack.github.io/project/mixsea/</link>
-      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/mixsea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fjord oceanography at LeConte glacier</title>
-      <link>https://jessecusack.github.io/project/leconte/</link>
-      <pubDate>Sat, 05 Dec 2020 14:10:35 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/leconte/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diapycnal and Isopycnal Mixing Experiment in the Southern Ocean</title>
-      <link>https://jessecusack.github.io/project/dimes/</link>
-      <pubDate>Mon, 27 Jan 2020 11:58:34 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/dimes/</guid>
-      <description>&lt;p&gt;A multi-year experiment to study mixing and stirring processes in the Southern Ocean.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Samoan Passage Mixing Experiment</title>
-      <link>https://jessecusack.github.io/project/spamex/</link>
-      <pubDate>Mon, 27 Jan 2020 11:57:29 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/spamex/</guid>
-      <description>&lt;p&gt;An extensive field campaign was conducted to study the flow and mixing within the Samoan Passage.&lt;/p&gt;
 </description>
     </item>
     
@@ -282,7 +264,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-432179568&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-657239418&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -292,7 +274,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-432179568&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-657239418&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

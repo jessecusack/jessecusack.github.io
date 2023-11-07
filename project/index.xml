@@ -13,15 +13,7 @@
     </image>
     
     <item>
-      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
-      <link>https://jessecusack.github.io/project/mixsea/</link>
-      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/mixsea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fjord oceanography at LeConte glacier</title>
+      <title>Physics of Ocean-Driven Ice Melt at Marine Terminating Glaicers</title>
       <link>https://jessecusack.github.io/project/leconte/</link>
       <pubDate>Sat, 05 Dec 2020 14:10:35 -0500</pubDate>
       <guid>https://jessecusack.github.io/project/leconte/</guid>
@@ -29,21 +21,11 @@
     </item>
     
     <item>
-      <title>Diapycnal and Isopycnal Mixing Experiment in the Southern Ocean</title>
-      <link>https://jessecusack.github.io/project/dimes/</link>
-      <pubDate>Mon, 27 Jan 2020 11:58:34 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/dimes/</guid>
-      <description>&lt;p&gt;A multi-year experiment to study mixing and stirring processes in the Southern Ocean.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Samoan Passage Mixing Experiment</title>
-      <link>https://jessecusack.github.io/project/spamex/</link>
-      <pubDate>Mon, 27 Jan 2020 11:57:29 -0500</pubDate>
-      <guid>https://jessecusack.github.io/project/spamex/</guid>
-      <description>&lt;p&gt;An extensive field campaign was conducted to study the flow and mixing within the Samoan Passage.&lt;/p&gt;
-</description>
+      <title>mixsea: a python module for turbulence analysis of ocean observations</title>
+      <link>https://jessecusack.github.io/project/mixsea/</link>
+      <pubDate>Sat, 05 Dec 2020 14:13:04 -0500</pubDate>
+      <guid>https://jessecusack.github.io/project/mixsea/</guid>
+      <description></description>
     </item>
     
   </channel>
