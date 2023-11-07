@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oceanography | Jesse Cusack</title>
+    <link>https://jessecusack.github.io/tag/oceanography/</link>
+      <atom:link href="https://jessecusack.github.io/tag/oceanography/index.xml" rel="self" type="application/rss+xml" />
+    <description>oceanography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jessecusack.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>oceanography</title>
+      <link>https://jessecusack.github.io/tag/oceanography/</link>
+    </image>
+    
+    <item>
+      <title>Bottom boundary layer submesoscale dynamics off the coast of Vietnam</title>
+      <link>https://jessecusack.github.io/project/vietnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessecusack.github.io/project/vietnam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ocean-driven ice melt at marine terminating glaicers</title>
+      <link>https://jessecusack.github.io/project/leconte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessecusack.github.io/project/leconte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Submesoscale processes in mesoscale eddies</title>
+      <link>https://jessecusack.github.io/project/arcterx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessecusack.github.io/project/arcterx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
